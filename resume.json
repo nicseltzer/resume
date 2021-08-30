@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "Nicholas Seltzer",
+    "label": "Senior Software Engineer",
+    "picture": "",
+    "email": "nic@nicseltzer.com",
+    "website": "https://nicseltzer.com",
+    "summary": "Seasoned engineer with 13 years of combined software engineering and systems engineering experience.",
+    "location": {
+      "address": "",
+      "city": "St. Louis",
+      "countryCode": "US",
+      "region": "Missouri",
+      "postalCode": 63126
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "nicseltzer",
+        "url": "https://www.linkedin.com/in/nicseltzer"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Riot Games",
+      "position": "Senior Software Engineer",
+      "startDate": "2020-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Architected and built a globally scalable, geographically-aware media streaming application for internal broadcast feeds thereby unlocking remote production",
+        "Mentored more junior engineers on craft fundamentals and process; providing a platform for questions and guided training through feature work",
+        "Constructed a committee, authored technical standards, and put forth a process for the review and ratification of proposed standards",
+        "Through exploration, interviews, conversations, and other discovery, I created onboarding documentation for engineers and onboarding plans for future engineers",
+        "Instrumented health and performance metrics to be ingested by NewRelic for multiple front-end and back-end services"
+      ]
+    },
+    {
+      "company": "Riot Games",
+      "position": "Software Engineer",
+      "startDate": "2017-08",
+      "endDate": "2020-01",
+      "summary": "",
+      "highlights": [
+        "Developed back-end and front-end solutions for both internal and external customer requirements",
+        "Designed and built automated test framework for a complex system handling streaming data",
+        "Working alongside a team of talented engineers to deliver rigorously-tested features in modular and scalable codebases",
+        "Completely owned entire subsystems of a loyalty feature in a production, high-traffic product",
+        "Maintaining large service deployments using infrastructure as code (Terraform) and continuous integration (Jenkins)"
+      ]
+    },
+    {
+      "company": "Riot Games",
+      "position": "Senior Systems Engineer",
+      "startDate": "2015-07",
+      "endDate": "2017-08",
+      "summary": "",
+      "highlights": [
+        "Responsible for delivering 100% system and network uptime for highly-visible, live broadcast events",
+        "Developed and executed intricate tactical and strategic plans with a large number of moving parts",
+        "Supported, designed, and enhanced internal-facing and external-facing applications, networks, and systems",
+        "Improved the quality of life by authoring and supporting both bespoke and third-party automation solutions",
+        "Extensive exposure to broadcast operations and broadcast technologies"
+      ]
+    },
+    {
+      "company": "First Data Corporation",
+      "position": "Enterprise IT Architect",
+      "startDate": "2014-05",
+      "endDate": "2015-07",
+      "summary": "",
+      "highlights": [
+        "Responsible for developing standards and new design patterns for Free Open Source Software (FOSS)",
+        "Quickly analyzed, developed, and tested potential use cases for the business",
+        "Worked with other teams to build integrations between existing enterprise applications",
+        "Designed and developed RESTful APIs for enterprise applications to encourage modularity",
+        "Authored multiple internal articles surrounding modular application design and application inter-communication"
+      ]
+    },
+    {
+      "company": "Resource Insurance Consultants",
+      "position": "Senior Systems Engineer",
+      "startDate": "2013-05",
+      "endDate": "2014-05",
+      "summary": "",
+      "highlights": [
+        "Planned and implemented a N-tier application architecture across multiple, redundant, remote sites",
+        "Managed relationships with vendors, contractors and other resources to accomplish business goals",
+        "Redesigned the corporate network clean-up at multiple remote sites; set up a client VPN solution",
+        "Assimilated new technologies and pursued the education surrounding those technologies fervently"
+      ]
+    },
+    {
+      "company": "Cabela's",
+      "position": "Enterprise Monitoring Engineer",
+      "startDate": "2012-08",
+      "endDate": "2013-05",
+      "summary": "",
+      "highlights": [
+        "Developed a multitude of applications in Java responsible for monitoring core infrastructure efficiently",
+        "Debugged and troubleshot existing PHP, Python, and Perl scripts for the monitoring",
+        "Helped to architect and engineer a scalable and resilient proof-of-concept monitoring platform",
+        "Assimilated new technologies and pursued the education surrounding those technologies fervently"
+      ]
+    },
+    {
+      "company": "Resource Insurance Consultants",
+      "position": "Systems Engineer",
+      "startDate": "2011-08",
+      "endDate": "2013-05",
+      "summary": "",
+      "highlights": [
+        "Architected highly-available network and server solutions using redundant switching and virtualization",
+        "Converted physical servers to virtual servers and separated previously multi-tenant services",
+        "Tested and developed a migration path from from Exchange 2007 to Exchange 2010",
+        "Planned and implemented a forward-looking storage solution which provides for modularity and security",
+        "Designed and implemented Nagios as the primary monitoring utility to monitor services, disk space, etc."
+      ]
+    },
+    {
+      "company": "Creighton University",
+      "position": "Systems Administrator II",
+      "startDate": "2010-11",
+      "endDate": "2011-08",
+      "summary": "",
+      "highlights": [
+        "Helped in testing and implementing an AD DS upgrade from 2003 to 2008 R2",
+        "Managed multiple VMware ESXi clustered hosts and VMs in production and in DR",
+        "Tested, developed, and implemented a migration from Exchange 2003 to Exchange 2010",
+        "Supported both physical and virtual servers through development, test, and production",
+        "Helped in the testing and planning of the Nagios implementation at Creighton, a multi-tiered network"
+      ]
+    },
+    {
+      "company": "Interpublic Group",
+      "position": "Technical Analyst II",
+      "startDate": "2008-11",
+      "endDate": "2010-11",
+      "summary": "",
+      "highlights": [
+        "Responsible for a clustered Exchange environment supporting 50,000+ users",
+        "Worked alongside messaging, network, and system engineers for case resolution",
+        "Used VBScript and Python to automate routine and complex tasks",
+        "Created and maintained documentation for change control and operating procedures"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Go",
+        "Java",
+        "Typescript",
+        "Python3"
+      ]
+    },
+    {
+      "name": "Data Persistence",
+      "keywords": [
+        "AWS RDS",
+        "MariaDB / MySQL",
+        "AWS Elasticache (Redis)",
+        "Hazelcast",
+        "AWS DynamoDB",
+        "Hbase"
+      ]
+    },
+    {
+      "name": "Stream Processing",
+      "keywords": [
+        "AWS Kinesis",
+        "Kafka"
+      ]
+    },
+    {
+      "name": "Systems",
+      "keywords": [
+        "Windows",
+        "Linux",
+        "BSD (MacOS and FreeBSD)"        
+      ]
+    },
+    {
+      "name": "Networking",
+      "keywords": [
+        "Juniper (EX and SRX)",
+        "pfSense",
+        "Vyatta"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "SaltStack Certified Engineer",
+      "awarder": "SaltStack",
+      "date": "2015-03",
+      "summary": "0xD6186F6A"
+    },
+    {
+      "title": "ICAgile Certified Professional",
+      "awarder": "International Consortium for Agile",
+      "date": "2015-08",
+      "summary": "License 78-3343-9873d7e3-aac9-3307-88a2-5306b88cad2f"
+    },
+    {
+      "title": "Red Hat Certified Systems Administrator",
+      "awarder": "Redhat",
+      "date": "2015-12",
+      "summary": "License 150-217-412"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Intermediate"
+    }
+  ]
+}

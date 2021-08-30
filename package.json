@@ -1,0 +1,15 @@
+{
+  "name": "career_path",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "resume export resume.html -t paper -F"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-paper": "^0.5.0",
+    "resume-cli": "^3.0.5"
+  }
+}
