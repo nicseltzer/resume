@@ -1,3 +1,7 @@
+# Personal detail for teams
+bio/
+
+.DS_Store
 node_modules/
 .idea/
 *.iml

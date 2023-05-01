@@ -6,7 +6,7 @@
   "scripts": {
     "build-html": "resume export artifacts/resume.html -t paper -F ",
     "build-pdf": "resume export artifacts/resume.pdf -t paper -F",
-    "build": "npm run build-html && npm run build-pdf"
+    "build": "PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true PUPPETEER_EXECUTABLE_PATH=/opt/homebrew/bin/chromium npm run build-html && npm run build-pdf"
   },
   "author": "",
   "license": "ISC",
