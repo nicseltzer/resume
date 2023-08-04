@@ -4,34 +4,51 @@
     "label": "Software Engineer",
     "picture": "",
     "email": "nic@nicseltzer.com",
-    "website": "https://nicseltzer.com",
-    "summary": "Seasoned engineer with 18 years of combined leadership, broadcast, software, systems engineering experience.",
+    "phone": "+1 310 985 0010",
+    "website": "https://www.linkedin.com/in/nicseltzer",
+    "summary": "I am a full stack software engineer. My technical foundation is rooted in systems engineering. I am driven by curiosity and grit. My core interests are in R&D, building scalable systems, information security, and broadcast. I categorize myself as a generalist as I've worn (and enjoyed wearing) many hats in my career.",
     "location": {
       "address": "",
       "city": "St. Louis",
       "countryCode": "US",
       "region": "Missouri",
       "postalCode": 63126
-    },
-    "profiles": [
-      {
-        "network": "linkedin",
-        "username": "nicseltzer",
-        "url": "https://www.linkedin.com/in/nicseltzer"
-      }
-    ]
+    }
   },
   "work": [
+    {
+      "company": "Gafftape Industries LLC",
+      "position": "Founder",
+      "startDate": "2023-08",
+      "summary": "Acting as a founder and engineer for a small start-up with broadcast operations at the forefront",
+      "highlights": [
+        "Creating a full-stack Nextjs application (Typescript, Nextjs, NodeJS)",
+        "Building complex deployment pipelines for software and infrastructure as code from a monorepo",
+        "Implementing metrics collection and monitoring for core applications",
+        "Branding, marketing, b2b engagement, and sales functions all fall to me"
+      ]
+    },
+    {
+      "company": "Andas Techology",
+      "position": "Software Engineer",
+      "startDate": "2014-12",
+      "summary": "Owner and operator of a micro-scale consulting firm providing technical solutions to, largely, manufacturing and real estate sectors. Specialize in building full-stack solutions to niche problems.",
+      "highlights": [
+        "Constructing an end-to-end client-server system for a manufacturing firm (Node.JS, Typescript, Electron)",
+        "Authored tooling to manage lease generation and lifecycle for a sister real estate management company (Java, Typescript)",
+        "Designed and installed multiple, redundant small business networks using Ubiquiti, Juniper, and other commodity networking hardware"
+      ]
+    },
     {
       "company": "Meta",
       "position": "Production (Software) Engineer",
       "startDate": "2022-08",
-      "endDate": "2023-10",
-      "summary": "",
+      "endDate": "2023-07",
+      "summary": "Acted as the glue holding things together, whether that's infrastructure and software or teams and processes. As a Production Engineer, I was tasked with both systems and software engineering tasks. My area of focus was in advertising and monetization.",
       "highlights": [
-        "Analyzed and redesigned massive-scale advertising systems to improve performance and reliability",
+        "Analyzed and redesigned massive-scale advertising systems to improve performance and reliability (C++, Thrift)",
         "Responsible for global capacity for customer-facing organizations and teams",
-        "Improved data consistency from ~50% to ~99% to enable a new product launch",
+        "Improved data consistency from ~50% to ~99% to enable a new product launch (Hack)",
         "Drove efficiency improvements and disaster-readiness across my pillar, organization, and team"
       ]
     },
@@ -40,13 +57,13 @@
       "position": "Senior Software Engineer",
       "startDate": "2020-01",
       "endDate": "2022-08",
-      "summary": "",
+      "summary": "Leveraging my tenure at Riot, was able to carry forward my experience to help provide solutions for niche broadcast challenges. Additionally responsible to for driving alignment to company-wide engineering practices and cultivating an sustainable, engineering-forward team culture.",
       "highlights": [
-        "Designed and built a globally scalable, geographically-aware media streaming application for internal broadcast feeds thereby unlocking remote production",
-        "Mentored junior engineers on craft fundamentals and process; providing a platform for questions and guided training through feature work",
-        "Designed and built an on-demand serverless saga whereby user data is ingested programmatically, transformed, and used to generate ephemeral accounts and permissions to various systems",
+        "Designed and built a globally scalable, geographically-aware media streaming application for internal broadcast feeds thereby unlocking remote production (Go, Typescript, AWS)",
+        "Mentored junior engineers on craft fundamentals and process; providing a platform for questions and guided training through feature work (Go, REST)",
+        "Designed and built an on-demand serverless Saga whereby user data is ingested programmatically, transformed, and used to generate ephemeral accounts and permissions to disparate systems (Go, AWS)",
         "Constructed a committee, authored technical standards, and put forth a process for the review and ratification of proposed standards",
-        "Through exploration, interviews, conversations, and other discovery, I created onboarding documentation for engineers and onboarding plans for future engineers"
+        "Through exploration, interviews, conversations, and other discovery, created onboarding documentation for engineers and onboarding plans for future engineers"
       ]
     },
     {
@@ -54,13 +71,13 @@
       "position": "Software Engineer",
       "startDate": "2017-08",
       "endDate": "2020-01",
-      "summary": "",
+      "summary": "Wore many hats in this role. I worked on build engineering, backend services, frontend experiences, high-traffic, moderately-complex systems, and automation. Much of this work was user-facing and had a direct impact on our Fans were able to experience esports.",
       "highlights": [
-        "Developed back-end and front-end solutions to both internal and external customer requirements",
-        "Designed and built automated test framework for a complex system handling streaming data",
-        "Working alongside a team of talented engineers to deliver rigorously-tested features in modular and scalable codebases",
-        "Completely owned entire systems for a loyalty feature in a  high-traffic, production environment",
-        "Maintaining large service deployments using infrastructure-as-code (IaC) and continuous integration (CI/CD)"
+        "Developed back-end and front-end solutions to both internal and external customer requirements (Java, NodeJS, Typescript, Go, Python)",
+        "Designed and built automated test framework for a complex system handling streaming data (Java)",
+        "Worked alongside a team of talented engineers to deliver rigorously-tested features in modular and scalable codebases (Java, Go)",
+        "Completely owned entire systems for a loyalty feature in a high-traffic (1m+ user/s), production environment (Java, Redis, AWS)",
+        "Maintained sizable constellations of deployed services using infrastructure-as-code and continuous integration (Groovy, Python, Terraform, Jenkins)"
       ]
     },
     {
@@ -68,12 +85,12 @@
       "position": "Systems Engineer",
       "startDate": "2015-07",
       "endDate": "2017-08",
-      "summary": "",
+      "summary": "Executed live broadcast events across every present technical domain. During the off-season, I build and maintained a fleet of travel-ready systems to bring them up-to specification or to fill any gaps between Esports and production gameplay.",
       "highlights": [
-        "Responsible for delivering 100% system and network uptime for highly-visible, live broadcast events",
+        "Delivered 100% system and network uptime for highly-visible, live broadcast events (Python, Powershell, Typescript, NodeJS)",
         "Developed and executed intricate strategic and tactical plans with a large number of moving parts",
-        "Supported, designed, and enhanced internal-facing and external-facing applications, networks, and systems",
-        "Improved the quality of life by authoring and supporting both bespoke and third-party automation solutions"
+        "Supported, designed, and enhanced internal-facing and external-facing applications, networks, and systems (Java, Python, Javascript)",
+        "Improved the quality of life for internal teams by authoring and supporting both bespoke and third-party automation solutions (Python, Go)"
       ]
     },
     {
@@ -81,13 +98,12 @@
       "position": "Enterprise IT Architect",
       "startDate": "2014-05",
       "endDate": "2015-07",
-      "summary": "",
+      "summary": "I led a team of eight engineers across multiple timezones. We were responsible for R&D with a focus on high-volume data solutions and constructing internal cloud environments.",
       "highlights": [
-        "Lead a team of software engineers across multiple timezones",
-        "Quickly analyzed, developed, and tested potential use cases for the business",
-        "Worked with other teams to build integrations between existing enterprise applications",
-        "Designed and developed RESTful APIs for enterprise applications to encourage modularity",
-        "Authored multiple internal articles on modular application design and application inter-communication (IDLs, RPC, APIs, etc.)"
+        "Quickly analyzed, developed, and tested for internal market fit of internal cloud prototypes (Bash, ActionScript 4, Java)",
+        "Worked with other teams to build integrations between existing enterprise applications (Java)",
+        "Designed and developed RESTful APIs for enterprise applications to encourage modularity (Java)",
+        "Authored multiple internal articles on modular application design and application inter-communication (IDLs, RPC, APIs) (Java)"
       ]
     },
     {
@@ -95,12 +111,12 @@
       "position": "Senior Systems Engineer",
       "startDate": "2013-05",
       "endDate": "2014-05",
-      "summary": "",
+      "summary": "I returned to this role after being a consultant for a time. I continued to be the sole systems engineer and help desk for all internal operations and customer-facing applications and systems.",
       "highlights": [
         "Planned and implemented a N-tier application architecture across multiple, redundant, remote sites",
         "Managed relationships with vendors, contractors and other resources to accomplish business goals",
         "Redesigned the corporate network clean-up at multiple remote sites; set up a client VPN solution",
-        "Did rudimentary bug-fixing and application development of core systems as well as internal micro-sites and tooling"
+        "Performed rudimentary bug-fixing and application development of core systems as well as internal micro-sites and tooling (Javascript, ColdFusion)"
       ]
     },
     {
@@ -108,12 +124,12 @@
       "position": "Enterprise Monitoring Engineer",
       "startDate": "2012-08",
       "endDate": "2013-05",
-      "summary": "",
+      "summary": "Helped to resolve issues with availability and reliability through observability. This involved integrating with all manner of systems and technology, both legacy and modern.",
       "highlights": [
-        "Developed a multitude of applications in various languages to monitor core infrastructure, legacy to modern",
+        "Developed a multitude of applications in various languages to monitor core infrastructure, legacy to modern (Java, Python, Perl)",
         "Performed ad-hoc (read: on-call) triage and debugging of existing applications and scripts",
-        "Helped architect and engineer scalable and resilient proof-of-concept monitoring platforms",
-        "Created the prototypical self-serve monitoring, alerting, and observability platform at Cabela's"
+        "Helped architect and engineer scalable and resilient proof-of-concept monitoring platforms (Java)",
+        "Created the prototypical self-serve monitoring, alerting, and observability platform at Cabela's (Python)"
       ]
     },
     {
@@ -121,11 +137,11 @@
       "position": "Systems Engineer",
       "startDate": "2011-08",
       "endDate": "2013-05",
-      "summary": "",
+      "summary": "In this role, I was the sole systems administration and help desk for all internal operations and customer-facing applications and systems.",
       "highlights": [
         "Architected highly-available network and server solutions using redundant switching and virtualization",
         "Converted physical servers to virtual servers and separated previously multi-tenant services",
-        "Tested and developed a migration path from from Exchange 2007 to Exchange 2010",
+        "Tested and developed a migration path from from Exchange 2007 to Exchange 2010 (PowerShell)",
         "Planned and implemented a forward-looking storage solution which provided for modularity and security"
       ]
     },
@@ -134,11 +150,11 @@
       "position": "Systems Administrator II",
       "startDate": "2010-11",
       "endDate": "2011-08",
-      "summary": "",
+      "summary": "Responsible for a large virtualization cluster deployment, a number of migrations to current technology, and security concerns within the university.",
       "highlights": [
-        "Helped in testing and implementing an AD DS upgrade from 2003 to 2008 R2",
-        "Managed multiple VMware ESXi clustered hosts and VMs in production and in DR",
-        "Tested, developed, and implemented a migration from Exchange 2003 to Exchange 2010",
+        "Helped in testing and implementing an Active Directory Directory Services upgrade from 2003 to 2008 R2 (Perl)",
+        "Managed multiple VMware ESXi clustered hosts and VMs in production and in Disaster Recovery",
+        "Tested, developed, and implemented a migration from Exchange 2003 to Exchange 2010 (Perl)",
         "Supported both physical and virtual servers through development, test, and production"
       ]
     },

@@ -11,6 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jsonresume-theme-a11y": "^2.5.0",
+    "jsonresume-theme-compact-extended": "^1.0.3",
+    "jsonresume-theme-direct": "^0.1.1",
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-kendall-modern": "^0.1.6",
+    "jsonresume-theme-markdown": "^1.0.2",
     "jsonresume-theme-paper": "^0.5.0",
     "resume-cli": "^3.0.5"
   }
